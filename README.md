@@ -32,3 +32,9 @@ void createProcess(char *cmd)
     }
 }
 ```
+
+## Run example
+
+```shell
+make run
+```
