@@ -11,9 +11,9 @@ void createProcess(char *cmd)
 
 int main()
 {
-    createprocess("ls");
-    createprocess("ps");
-    createprocess("top");
+    createProcess("ls");
+    createProcess("ps");
+    createProcess("top");
 
     return 0;
 }
