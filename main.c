@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void createprocess(char *cmd)
+void createProcess(char *cmd)
 {
     int pid = fork();
     if (pid == 0)
@@ -14,5 +14,6 @@ int main()
     createprocess("ls");
     createprocess("ps");
     createprocess("top");
+
     return 0;
 }
