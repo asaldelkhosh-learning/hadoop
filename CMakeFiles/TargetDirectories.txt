@@ -1,2 +1,0 @@
-/Users/amirhossein/Desktop/process/CMakeFiles/edit_cache.dir
-/Users/amirhossein/Desktop/process/CMakeFiles/rebuild_cache.dir
